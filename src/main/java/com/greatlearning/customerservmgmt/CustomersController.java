@@ -32,6 +32,7 @@ public class CustomersController {
 		Customer customer = new Customer();
 
 		model.addAttribute("Customer", customer);
+		model.addAttribute("Heading", "Add a new Customer");
 
 		return "customer-form";
 	}
@@ -42,6 +43,7 @@ public class CustomersController {
 		Customer customer = customerService.findById(id);
 
 		model.addAttribute("Customer", customer);
+		model.addAttribute("Heading", "Update the Customer Details");
 
 		return "customer-form";
 	}
