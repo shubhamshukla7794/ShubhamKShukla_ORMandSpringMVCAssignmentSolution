@@ -33,18 +33,18 @@
 				<input type="hidden" name="id" value="${Customer.id}" />
 				
 				<div class="form-group">			
-					<input type="text" name="first_name" id="first_name" class="form-field" value="${Customer.first_name}" placeholder="First Name">
+					<input type="text" name="first_name" id="first_name" class="form-field" value="${Customer.first_name}" placeholder="First Name" required="required">
 					<label for="first_name" class="form-label">First Name</label>
 				</div>
 			
 				<div class="form-group">
-					<input type="text" name="last_name" id="last_name" class="form-field" value="${Customer.last_name}" placeholder="First Name">
+					<input type="text" name="last_name" id="last_name" class="form-field" value="${Customer.last_name}" placeholder="Last Name" required="required">
 					<label for="last_name" class="form-label">Last Name</label>
 				</div>
 				
 			
 				<div class="form-group">
-					<input type="email" name="email" id="email" class="form-field" value="${Customer.email}" placeholder="First Name">
+					<input type="email" name="email" id="email" class="form-field" value="${Customer.email}" placeholder="Email" required="required">
 					<label for="email" class="form-label">Email</label>
 				</div>
 				
