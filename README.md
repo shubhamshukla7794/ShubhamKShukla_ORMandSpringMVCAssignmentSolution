@@ -23,10 +23,17 @@ The following items should be installed in your system:
 
 ## Application
 The following video shows the CRUD operations of **Customer Relationship Management**
-https://user-images.githubusercontent.com/37581959/158525029-f6c43d78-39f3-4483-8fe6-5ea5478bfea5.mp4
+
+https://user-images.githubusercontent.com/37581959/158538982-9a80ecd7-10ee-4776-9e1d-027cdadc0d5b.mp4
+
+
 
 The following video shows the responsiveness of **Customer Relationship Management**
-https://user-images.githubusercontent.com/37581959/158525025-a6865103-c8f7-4805-a461-3dea466c4356.mp4
+
+
+https://user-images.githubusercontent.com/37581959/158539052-8e39c8fe-30f7-454a-830e-44485984a108.mp4
+
+
 
 ##  Author
 Project created by :
