@@ -1,4 +1,4 @@
-package com.greatlearning.customerservmgmt.model;
+package com.greatlearning.customerservmgmt.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

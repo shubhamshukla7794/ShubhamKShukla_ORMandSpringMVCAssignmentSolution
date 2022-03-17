@@ -11,7 +11,7 @@ import org.hibernate.Transaction;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.greatlearning.customerservmgmt.model.Customer;
+import com.greatlearning.customerservmgmt.entity.Customer;
 
 @Repository
 public class CustomerServiceImpl implements CustomerService{

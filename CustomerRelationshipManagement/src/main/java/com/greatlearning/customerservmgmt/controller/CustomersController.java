@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.greatlearning.customerservmgmt.model.Customer;
+import com.greatlearning.customerservmgmt.entity.Customer;
 import com.greatlearning.customerservmgmt.service.CustomerService;
 
 @Controller
